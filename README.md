@@ -11,7 +11,10 @@ This tool incorporates the optimized parameter combination specifically identifi
 **Please see [sleapGUI](https://github.com/khicken/sleapGUI) for installation instructions.**
 
 ## Usage Demo
-\[currently making tutorial video on how to use DeepFace pipeline\]
+
+Tutorial Videos to Replicate DeepVision using your data:
+
+[Pupillometry Playlist](https://www.youtube.com/playlist?list=PLdt5kwsCtktxSgYm0I6CQ1be1tvhi67qd)
 
 ## Troubleshoot
 If you have a technical question with either [`mediaGUI`](https://github.com/khicken/mediaGUI) or [`sleapGUI`](https://github.com/khicken/sleapGUI), then feel free to request a "New Issue" in the "Issues" section for the respective GUI.
