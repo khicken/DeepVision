@@ -14,7 +14,7 @@ This tool incorporates the optimized parameter combination specifically identifi
 
 Tutorial Videos to Replicate DeepVision using your data:
 
-[DeepVision Playlist](https://www.youtube.com/playlist?list=PLdt5kwsCtktxSgYm0I6CQ1be1tvhi67qd)
+[DeepVision Tutorial Playlist](https://www.youtube.com/playlist?list=PLdt5kwsCtktxSgYm0I6CQ1be1tvhi67qd)
 
 ## Troubleshoot
 If you have a technical question with either [`mediaGUI`](https://github.com/khicken/mediaGUI) or [`sleapGUI`](https://github.com/khicken/sleapGUI), then feel free to request a "New Issue" in the "Issues" section for the respective GUI.
